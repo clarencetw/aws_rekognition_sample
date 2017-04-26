@@ -6,6 +6,7 @@ http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/Rekognition.html
 ## 執行 Sample 專案
 - 先下載專案，可使用 git clone 或是右上角的 Download Zip
 - 進入資料夾下載插件執行 npm install
+- 修正 main.js 裡面的 accessKeyId 與 secretAccessKey
 - 執行程式執行 node main.js
 
 ## 安裝 Node.js

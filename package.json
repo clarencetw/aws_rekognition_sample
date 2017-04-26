@@ -1,0 +1,25 @@
+{
+  "name": "aws_rekognition_sample",
+  "version": "1.0.0",
+  "description": "rekognition sample",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/clarencetw/aws_rekognition_sample.git"
+  },
+  "keywords": [
+    "rekognition"
+  ],
+  "author": "Clarence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarencetw/aws_rekognition_sample/issues"
+  },
+  "homepage": "https://github.com/clarencetw/aws_rekognition_sample#readme",
+  "dependencies": {
+    "aws-sdk": "^2.45.0"
+  }
+}
